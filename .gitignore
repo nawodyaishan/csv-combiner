@@ -21,5 +21,8 @@ dist/
 .vscode/
 .idea/
 
-combined
-example_data
+combined/
+example_data/
+
+*.combined/
+*.example_data/
