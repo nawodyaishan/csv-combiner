@@ -20,3 +20,6 @@ dist/
 # IDE files
 .vscode/
 .idea/
+
+combined
+example_data
